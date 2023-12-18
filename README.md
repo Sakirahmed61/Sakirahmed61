@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakirahmed61
+- 👋 Hi, I’m SAKIR AHMED
 - 👀 I’m interested in designing web pages and other media elements
 - 🌱 I’m currently learning HTML,CSS,python,javascript
 - 💞️ I’m looking to collaborate on front-end developing projects 
