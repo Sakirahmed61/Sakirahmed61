@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SAKIR AHMED
-- 👀 I’m interested in designing web pages and other media elements
+- 👀 I’m a Data Analyst with skills on Python, MS office products, Power BI.
 - 🌱 I’m currently learning HTML,CSS,python,javascript
-- 💞️ I’m looking to collaborate on front-end developing projects 
+- 💞️ Feel free to ask me on any analysis project
 - 📫 How to reach me ahmedian365@gmail.com
 
 <!---
